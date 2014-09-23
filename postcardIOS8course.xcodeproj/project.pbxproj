@@ -13,6 +13,8 @@
 		5672B76019D09BB3003AB960 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5672B75F19D09BB3003AB960 /* Images.xcassets */; };
 		5672B76319D09BB3003AB960 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5672B76119D09BB3003AB960 /* LaunchScreen.xib */; };
 		5672B76F19D09BB3003AB960 /* postcardIOS8courseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5672B76E19D09BB3003AB960 /* postcardIOS8courseTests.swift */; };
+		5672B77A19D09C7B003AB960 /* mickeyMouse256x256.png in Resources */ = {isa = PBXBuildFile; fileRef = 5672B77819D09C7B003AB960 /* mickeyMouse256x256.png */; };
+		5672B77B19D09C7B003AB960 /* wasp.png in Resources */ = {isa = PBXBuildFile; fileRef = 5672B77919D09C7B003AB960 /* wasp.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		5672B76819D09BB3003AB960 /* postcardIOS8courseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = postcardIOS8courseTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5672B76D19D09BB3003AB960 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5672B76E19D09BB3003AB960 /* postcardIOS8courseTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = postcardIOS8courseTests.swift; sourceTree = "<group>"; };
+		5672B77819D09C7B003AB960 /* mickeyMouse256x256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mickeyMouse256x256.png; sourceTree = "<group>"; };
+		5672B77919D09C7B003AB960 /* wasp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wasp.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		5672B75619D09BB3003AB960 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5672B77819D09C7B003AB960 /* mickeyMouse256x256.png */,
+				5672B77919D09C7B003AB960 /* wasp.png */,
 				5672B75719D09BB3003AB960 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,7 +199,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				5672B75E19D09BB3003AB960 /* Main.storyboard in Resources */,
+				5672B77B19D09C7B003AB960 /* wasp.png in Resources */,
 				5672B76319D09BB3003AB960 /* LaunchScreen.xib in Resources */,
+				5672B77A19D09C7B003AB960 /* mickeyMouse256x256.png in Resources */,
 				5672B76019D09BB3003AB960 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
